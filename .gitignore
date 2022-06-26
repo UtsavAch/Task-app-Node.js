@@ -1,4 +1,6 @@
 config
+tests/math.test.js
+src/math.js
 # dependencies
 /node_modules
 /.pnp
